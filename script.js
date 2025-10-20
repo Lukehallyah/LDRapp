@@ -32,8 +32,22 @@ const activities=[
         fancy or however you want to build, creating a story together is the perfect way to have fun!`
     },
 
-    {name:``,
-        description:``
+    {name:`Draw Together`,
+        description:`Nothing like drawing together to get the creativity flowing! Try drawing something together. It could
+        be something that each of you draws your own version of, or it may be together on an app or using your phone's
+        camera to save and send until you have your finished product. However you choose remember to have fun!`
+    },
+
+    {name:`What Would You Do?`,
+        description:`One person comes up with a scenario and asks the other person what they would do there. It's a
+        lighthearted questions game that can give each of you a glimpse into the mind of the other person. An exciting 
+        way to find out how your partner thinks!`
+    },
+
+    {name:`Have a Movie Night`,
+        description:`Are you stressed after a long day of study or work? Want to spend time together but your social 
+        battery has run dry? Watching a movie together is the perfect date night idea for when both of you have had enough
+        of today but want to spend time together and the best part? It's low pressure too.`
     },
 ];
 
