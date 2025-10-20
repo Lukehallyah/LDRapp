@@ -1,0 +1,88 @@
+html{
+    font-size: 16px;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+
+main{
+    width:50%;
+    max-width: 500px;
+    height:95vh;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    gap:2.5vh;
+    background-color: rgb(252, 215, 146);
+    border-radius: 5px;
+
+}
+
+.title{
+    padding:0;
+    margin:0;
+    text-decoration:underline;
+}
+
+.activityName{
+    width: 60%;
+    height: 35%;
+    border: 2px solid black;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.activityName h3{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.activity{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.description{
+    width: 60%;
+    height: 40%;
+    border: 2px solid black;
+    background-color: white;
+    padding: 0;
+    margin: 0;
+    border-radius: 5px;
+
+}
+
+.description h3{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.describe{
+    text-align: center;
+}
+
+
+@media (max-width: 600px) {
+
+    main{
+        max-width: 400px;
+        width: 350px;
+    }
+    
+}
