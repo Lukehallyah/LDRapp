@@ -60,9 +60,10 @@ main{
 }
 
 .activityName h3{
-    text-align: center;
+    text-align: left;
     padding: 0;
     margin: 0;
+    font-size: 16px;
 }
 
 .activity{
@@ -77,23 +78,27 @@ main{
     border: 2px solid black;
     background-color: white;
     padding: 0;
+    padding-bottom: 10px;
     margin: 0;
     border-radius: 5px;
-    margin-top: 20px;
+    margin-top: 10px;
 
 }
 
 .description h3{
-    text-align: center;
+    text-align: left;
     padding: 0;
     margin: 0;
+    font-size: 16px;
 }
 
 .describe{
     text-align: center;
     padding: 0;
     margin: 0;
+    padding-top: 10px;
 }
+
 
 
 
@@ -115,8 +120,20 @@ main{
     justify-content: center;
     flex-direction: column;
     border: 2px solid black;
+    background-color: #f5ce90;
+    text-align: center;
 }
 
+.partTwo h2{
+    background-color: white;
+    width: 60%;
+}
+
+.partTwo p{
+    background-color: white;
+    width: 80%;
+    padding: 10px 5px;
+}
 
 
 
