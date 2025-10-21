@@ -220,8 +220,127 @@ const activities=[
         or something related to the emoji. Bound to lead to lots of laughs and good times!`
     },
 
-    
+    {name:`Practice Language`,
+        description:`For many LDR couples, practicing language is vital to understanding the culture of a nation. This 
+        brings everyone closer together and can be a fun way to learn and to study together`
+    },
 
+    {name:`Model Clothes for Each Other`,
+        description:`Is there something that you just love seeing your partner in? That blue dress that just drives you 
+        wild, or that slim black shirt that makes you crazy? Try modeling clothes for each other and different styles 
+        to see what each of you likes`
+    },
+
+    {name:`Couples Card Game`,
+        description:`If you already have a couples card game this is great but not necessary for this to work. If you have, 
+        use the couple's card game to ask each other questions that really bring you closer together. Try not to make each other 
+        uncomfortable but it's a good way to be intimate on a deep level. If you may not have a couple's card game, asking 
+        questions that come to mind works just as well, and can lead to each partner opening up a little more`
+    },
+
+    {name:`Video Chat Walk`,
+        description:`Is your partner stressed? Are they in a stressful anxious situation that they may not be able to get 
+        away from in this moment? Going for a walk even through the neighborhood can give them that escape that they need 
+        and may turn into a long distance date! Who knows what can happen and it's bound to spark conversations`
+    },
+
+    {name:`Video Chat`,
+        description:`Video chatting is a good way for people to connect over long distance. Some people love to hear their 
+        parnter's voices and other's love to see their smiles and their laughs. It's like giving them a hug from halfway 
+        across the world and it makes everyone feel closer. It's alright if your partner isn't comfortable and you could always 
+        try a different time. `
+    },
+
+    {name:`MadLibs Improv`,
+        description:`A short story with "fill in the blanks" that can be downloaded or copied online for free or you can make 
+        your own! Leave some blanks there so that the other partner can add some words and things and see how crazy the stories 
+        can get. You'd be surpised what you both with create together!`
+    },
+
+    {name:`Video Dance Party`,
+        description:`Ever wanted to dance with your partner but they seem so far away? Just boot up the old video chat, 
+        put on some music and dance together! This could be any music as long as you both have fun together. This is a great 
+        way to unwind after a long day of work or study`
+    },
+
+    {name:`Share Recipes`,
+        description:`Ever wanted to cook together or just get a feel of what your partner likes to eat? Sharing recipes together 
+        can be a great way to learn! A great way to learn about culture and the interests of your parnter and the foods they love 
+        and grew up eating and enjoying. And who knows? You may find new foods that you really enjoy!`
+    },
+
+    {name:`Video Games`,
+        description:`Play or Discover new video games together! See that new block game and you're dying to try? Give it a whirl 
+        and bring your partner in on the fun. See who can get the newest high schore and who finds the most creative way of doing 
+        things. Who knows what new games you'll find and what kinds of experiences you'll have?`
+    },
+
+    {name:`Trying New Hobby`,
+        description:`Try a new hobby together. Could be something as simple as origami, drawing, or even studying together! 
+        Doing things together brings you closer and opens up new opportunities for closeness and intimacy. See what new possibilities 
+        are out there for the both of you there's an entire world of knowledge waiting!`
+    },
+
+    {name:`Discuss Likes in the Relationship`,
+        description:`Discuss those things you like in the relationship that especially make you smile! Those things you are 
+        thankful for but sometimes may not tell your partner enough. Talking about these things brings gratitude and where 
+        there is gratitude each partner feels appreciated. Give it a try and see what happens!`
+    },
+
+    {name:`What can Improve?`,
+        description:`With your partner, discuss those things you'd like to see more of in the relationship and what can improve. 
+        Each partner is responsible for not being critical or defensive and this is just meant as more of a safe place to discuss 
+        those things that you may long more for in the relationship. Be careful to tell your partner also those things you love 
+        and enjoy and be kind and gentle with them. This is all about closeness and connection`
+    },
+
+    {name:`Read Together`,
+        description:`Reading together can be a great way to grow close when both of you are tired after a long day. One person 
+        can read while the other person relaxes or you can both take turns. It's important to try not to be on social media during 
+        this time and to focus on resting with each other and feeling each other's presence`
+    },
+
+    {name:`Sing A Song`,
+        description:`Singing a song is perhaps the most vulnerable thing a person can do. But in the heart of your partner 
+        you'll find that sometimes they long for your voice and singing. Try singing some of your favorite lines or songs to 
+        each other and see what beautiful moments can unfold`
+    },
+
+    {name:`Discuss Fashion`,
+        description:`Ever wondered what type of clothes that your partner really likes? Ever wanted to see them try on something 
+        that really interested you but never knew the right time to bring it up? Now's your chance! Discuss those things you'd really 
+        like to see them wear or let them tell you what they'd like to see you wear too, can lead to some interesting conversations`
+    },
+
+    {name:`Chika CHika`,
+        description:`In the philippines, "Chika Chika" is like gossip! Could be anything you heard during your day but always 
+        being respectful of other people and things. Could be things happening around the world or just things you've heard about 
+        really just about anything you could talk about could be discussed here`
+    },
+
+    {name:`Bucket List`,
+        description:`Each Partner comes up with 5 things they'd like to do before they pass away and places it in their 
+        bucket list. These are your dreams of places you'd like to go one day. Things you'd really like to do, foods you'd 
+        really like to try, people you'd really like to meet, experiences that really interest you, these can be anything!`
+    },
+
+    {name:`Study Together`,
+        description:`Kind of just want to feel close but both of you are students or studying? No pressure and no stress 
+        just booting up your favorite app and video calling is the perfect way to connect and uplift each other during a hard day`
+    },
+
+    {name:`Rabbit Hole`,
+        description:`One partner picks topics and the other person asks questions about that topic and see how far down 
+        the 'rabbit hole' you can go! This can lead to some long conversations and some interesting beliefs and who knows 
+        what knowledge you can learn together?`
+    },
+
+    {name:`Something Attractive`,
+        description:`Something you find really attractive about your partner. Don't be afraid to let your partner know 
+        how pretty they are or handsome they are to you, this is about going all out and showing your partner how lovely 
+        they are to you. Try not to hold back because it's important for your loved one to know how amazing you think they
+        really are even if sometimes they can't see it themselves`
+    },
 ];
 
 
