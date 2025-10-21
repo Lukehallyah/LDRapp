@@ -18,7 +18,7 @@ const activities=[
     
     {name:`Word Unscramble`,
         description:`Send a scrambled word to each other to see if the other person can guess what word it is. Helps if 
-        the first and last letter of the word or is the same. A fun and engaging twist on texting games!`
+        the first and last letter of the word are the same. A fun and engaging twist on texting games!`
     },
     
     {name:`Origami`,
@@ -79,7 +79,7 @@ const activities=[
     },
 
     {name:`Would You Rather`,
-        description:`The classic game of would you rather pits a person in two different scenarious. Would you rather do 
+        description:`The classic game of would you rather pits a person in two different scenarios. Would you rather do 
         this or rather do that? One person asks this question of the other person and the first person has to answer. 
         Sometimes fun and sometimes crazy but always interesting!`
     },
@@ -171,7 +171,7 @@ const activities=[
 
     {name:`What Should I do?`,
         description:`One partner comes up with a situation that can literally be anything. It can be a good or bad situation 
-        really anything that you want. Then then ask the other partner what they should do in this situation. Can lead to some 
+        really anything that you want. Then they ask the other partner what they should do in this situation. Can lead to some 
         interesting conversations and some really good bonding moments too.`
     },
 
@@ -211,7 +211,7 @@ const activities=[
 
     {name:`3 second video`,
         description:`Send a 3 second video of you doing something and it can be anything and send to your partner. Could be singing
-        or dancing, could be writing or doing homeword or studying, walking or exploring the world around you, the world is your oyster!`
+        or dancing, could be writing or doing homework or studying, walking or exploring the world around you, the world is your oyster!`
     },
 
     {name:`Word Association`,
@@ -227,7 +227,7 @@ const activities=[
 
     {name:`Practice Language`,
         description:`For many LDR couples, practicing language is vital to understanding the culture of a nation. This 
-        brings everyone closer together and can be a fun way to learn and to study together`
+        brings everyone closer together and can be a fun way to learn and to study`
     },
 
     {name:`Model Clothes for Each Other`,
@@ -251,7 +251,7 @@ const activities=[
 
     {name:`Video Chat`,
         description:`Video chatting is a good way for people to connect over long distance. Some people love to hear their 
-        parnter's voices and other's love to see their smiles and their laughs. It's like giving them a hug from halfway 
+        partner's voices and other's love to see their smiles and their laughs. It's like giving them a hug from halfway 
         across the world and it makes everyone feel closer. It's alright if your partner isn't comfortable and you could always 
         try a different time. `
     },
@@ -259,7 +259,7 @@ const activities=[
     {name:`MadLibs Improv`,
         description:`A short story with "fill in the blanks" that can be downloaded or copied online for free or you can make 
         your own! Leave some blanks there so that the other partner can add some words and things and see how crazy the stories 
-        can get. You'd be surpised what you both with create together!`
+        can get. You'd be surprised what you both will create together!`
     },
 
     {name:`Video Dance Party`,
@@ -270,13 +270,13 @@ const activities=[
 
     {name:`Share Recipes`,
         description:`Ever wanted to cook together or just get a feel of what your partner likes to eat? Sharing recipes together 
-        can be a great way to learn! A great way to learn about culture and the interests of your parnter and the foods they love 
+        can be a great way to learn! A great way to learn about culture and the interests of your partner and the foods they love 
         and grew up eating and enjoying. And who knows? You may find new foods that you really enjoy!`
     },
 
     {name:`Video Games`,
         description:`Play or Discover new video games together! See that new block game and you're dying to try? Give it a whirl 
-        and bring your partner in on the fun. See who can get the newest high schore and who finds the most creative way of doing 
+        and bring your partner in on the fun. See who can get the newest high score and who finds the most creative way of doing 
         things. Who knows what new games you'll find and what kinds of experiences you'll have?`
     },
 
@@ -318,13 +318,13 @@ const activities=[
     },
 
     {name:`Chika Chika`,
-        description:`In the philippines, "Chika Chika" is like gossip! Could be anything you heard during your day but always 
+        description:`In the Philippines, "Chika Chika" is like gossip! Could be anything you heard during your day but always 
         being respectful of other people and things. Could be things happening around the world or just things you've heard about 
         really just about anything you could talk about could be discussed here`
     },
 
     {name:`Bucket List`,
-        description:`Each Partner comes up with 5 things they'd like to do before they pass away and places it in their 
+        description:`Each partner comes up with 5 things they'd like to do before they pass away and places it in their 
         bucket list. These are your dreams of places you'd like to go one day. Things you'd really like to do, foods you'd 
         really like to try, people you'd really like to meet, experiences that really interest you, these can be anything!`
     },
