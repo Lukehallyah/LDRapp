@@ -78,9 +78,46 @@ const activities=[
         old school game meant for deep thought`
     },
 
+    {name:`Would You Rather`,
+        description:`The classic game of would you rather pits a person in two different scenarious. Would you rather do 
+        this or rather do that? One person asks this question of the other person and the first person has to answer. 
+        Sometimes fun and sometimes crazy but always interesting!`
+    },
+
+    {name:`The Name Game`,
+        description:`In this game you choose a subject for example 'animals'. The first person chooses the name of an animal
+        (like a lion) and the second person chooses the name of the subject but with the last letter of that animal's name 
+        (such as newt). This goes on until one person can't name the name of an animal and they lose`
+    },
+
+    {name:`Charades`,
+        description:`A game best played on video chat or in person, one person acts out something without speaking and the 
+        other person does their best to guess what it is. Speaking is not allowed and neither is writing and if the second 
+        person cannot guess what it is, then the first person wins. A good way to have fun and lots of laughs`
+    },
+
+    {name:`Finish My Sentence`,
+        description:`One person starts a sentence and the other person finishes that sentence for them. Make this as 
+        absurd or as serious as you want there really are no limitations!`
+    },
+
+    {name:`20 Questions`,
+        description:`In this game, one person comes up with something in their mind but doesn't tell the second person. 
+        The second person is allowed to ask up to twenty questions to try and guess what the first person is thinking of. 
+        They are not allowed to ask more and if they can guess what it is, then they win! Otherwise the first person wins`
+    },
+
+    {name:`Hangman`,
+        description:`One person thinks of a word or short phrase writing lines on a piece of paper for each letter. The other 
+        person tries to guess letters and if they guess right, then that letter is written in the line it's on. If not then 
+        a piece of the hangman is drawn on a piece of paper. Usually a head, body, two arms, and two legs although you can go 
+        more if you want to. If the hangman is drawn all the way, the guessing partner loses and the questioner wins`
+    },
+
     {name:``,
         description:``
     },
+
 ];
 
 
