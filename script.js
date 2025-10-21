@@ -146,6 +146,11 @@ const activities=[
         theatres. See how interesting you can make this and if your partner can guess`
     },
 
+    {name:`What Am I?`,
+        description:`The first partner describes very simply without giving away too many details and the other person 
+        tries their best to figure out what they are. Not a very difficult game but one that requires creativity`
+    },
+
     {name:`I spy`,
         description:`The first person says "I spy something (fill in the blank)" and the other person tries their best to 
         guess what the first person is referring to. Should be something around you or if video chatting something around 
@@ -341,6 +346,8 @@ const activities=[
         they are to you. Try not to hold back because it's important for your loved one to know how amazing you think they
         really are even if sometimes they can't see it themselves`
     },
+
+    
 ];
 
 
