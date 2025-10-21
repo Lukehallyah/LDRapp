@@ -49,6 +49,38 @@ const activities=[
         battery has run dry? Watching a movie together is the perfect date night idea for when both of you have had enough
         of today but want to spend time together and the best part? It's low pressure too.`
     },
+
+    {name:`Emoji Translation`,
+        description:`Like playing charades but with emojis. One person sends a string of emojis and the other person 
+        tries to guess what it means. A fun send and guess game that leads to lots of laughs and blunders.`
+    },
+
+    {name:`Truth or Dare`,
+        description:`The classic game of truth and dare! One person asks the other person to choose truth or dare. That second 
+        person chooses what they'd rather have. If truth the first person asks a question that the second person has to answer 
+        truthfully. If dare, the second person has to do the dare that the first person asks them to do. An oldie but goodie that 
+        leads to loads of good vibes`
+    },
+
+    {name:`What sound does this gif make?`,
+        description:`One person sends a gif to the other person and that person sends a voice recording back of what 
+        they think the sound the gif is making. A goofy but lighthearted game of fun that's bound to lead to lots of 
+        laughter and randomness`
+    },
+
+    {name:`Never Have I Ever`,
+        description:`Two people play and start with five points in this version. Both people have five fingers up on 
+        one of their hands and lose a point if they have done that thing. The first to lose all points loses.`
+    },
+
+    {name:`Guess the Riddle`,
+        description:`One person comes up with a riddle and the other person tries to guess what it means. An old but good
+        old school game meant for deep thought`
+    },
+
+    {name:``,
+        description:``
+    },
 ];
 
 
