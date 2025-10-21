@@ -317,7 +317,7 @@ const activities=[
         like to see them wear or let them tell you what they'd like to see you wear too, can lead to some interesting conversations`
     },
 
-    {name:`Chika CHika`,
+    {name:`Chika Chika`,
         description:`In the philippines, "Chika Chika" is like gossip! Could be anything you heard during your day but always 
         being respectful of other people and things. Could be things happening around the world or just things you've heard about 
         really just about anything you could talk about could be discussed here`
