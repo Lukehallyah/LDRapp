@@ -8,7 +8,7 @@ const activities=[
         If both players pick the same number on the count of 3, then player 2 has to do the dare.`},
     
     {name:"Truth and Deeper Truth", 
-        description:`This is a game where you can ask a generic question(What is your favorite color)
+        description:`This is a game where you can ask a generic question (What is your favorite color)
          or something much deeper(What is your fondest memory)`},
     
     {name:`Scrapbooking`,
@@ -35,7 +35,7 @@ const activities=[
     {name:`Draw Together`,
         description:`Nothing like drawing together to get the creativity flowing! Try drawing something together. It could
         be something that each of you draws your own version of, or it may be together on an app or using your phone's
-        camera to save and send until you have your finished product. However you choose remember to have fun!`
+        camera to save and send until you have your finished product. However you choose, remember to have fun!`
     },
 
     {name:`What Would You Do?`,
@@ -57,7 +57,7 @@ const activities=[
 
     {name:`Truth or Dare`,
         description:`The classic game of truth and dare! One person asks the other person to choose truth or dare. That second 
-        person chooses what they'd rather have. If truth the first person asks a question that the second person has to answer 
+        person chooses what they'd rather have. If truth, the first person asks a question that the second person has to answer 
         truthfully. If dare, the second person has to do the dare that the first person asks them to do. An oldie but goodie that 
         leads to loads of good vibes`
     },
@@ -131,8 +131,8 @@ const activities=[
     },
 
     {name:`Emoji Story`,
-        description:`One Person sends a string of emoji and the other person comes up with a short story from that string 
-        of emoji. Could be send using audio or by typing but creativity helps here!`
+        description:`One person sends a string of emoji and the other person comes up with a short story from that string 
+        of emoji. Could be sent using audio or by typing but creativity helps here!`
     },
 
     {name:`Rhymes`,
@@ -164,7 +164,7 @@ const activities=[
     },
 
     {name:`Unpopular Opinion`,
-        description:`This is kinda similiar to a "hot take". Someone says an unpopular opinion that they have and both of you 
+        description:`This is kinda similar to a "hot take". Someone says an unpopular opinion that they have and both of you 
         go back and forth saying one unpopular opinion after another. A great way to get to know your partner and loved one and 
         a good way to spend an evening together.`
     },
@@ -176,7 +176,7 @@ const activities=[
     },
 
     {name:`Tic Tac Toe`,
-        description:`This can be played thru video chat, sending pictures back and forth to each other, or by playing it 
+        description:`This can be played through video chat, sending pictures back and forth to each other, or by playing it 
         using the numbers 1-9. So 159 would be a success. So would 147 and so on. If it helps, remember how a phone is dialed 
         and it makes it easier to keep track of`
     },
@@ -188,8 +188,8 @@ const activities=[
     },
 
     {name:`The Alphabet Game`,
-        description:`Can make this a category or can be something random. You and your partner start with A and work your way thru 
-        to Z each of you taking turns and naming something in order. The first person unable to name something loses.`
+        description:`Can make this a category or can be something random. You and your partner start with A and work your way through 
+        to Z, each of you taking turns and naming something in order. The first person unable to name something loses.`
     },
 
     {name:`Rock-Paper-Scissors`,
@@ -237,7 +237,7 @@ const activities=[
     },
 
     {name:`Couples Card Game`,
-        description:`If you already have a couples card game this is great but not necessary for this to work. If you have, 
+        description:`If you already have a couple's card game this is great but not necessary for this to work. If you have, 
         use the couple's card game to ask each other questions that really bring you closer together. Try not to make each other 
         uncomfortable but it's a good way to be intimate on a deep level. If you may not have a couple's card game, asking 
         questions that come to mind works just as well, and can lead to each partner opening up a little more`
@@ -314,7 +314,7 @@ const activities=[
     {name:`Discuss Fashion`,
         description:`Ever wondered what type of clothes that your partner really likes? Ever wanted to see them try on something 
         that really interested you but never knew the right time to bring it up? Now's your chance! Discuss those things you'd really 
-        like to see them wear or let them tell you what they'd like to see you wear too, can lead to some interesting conversations`
+        like to see them wear or let them tell you what they'd like to see you wear too, which can lead to some interesting conversations`
     },
 
     {name:`Chika Chika`,
