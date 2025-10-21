@@ -114,9 +114,113 @@ const activities=[
         more if you want to. If the hangman is drawn all the way, the guessing partner loses and the questioner wins`
     },
 
-    {name:``,
-        description:``
+    {name:`Lightning Fast!`,
+        description:`In this game one person says a word and the other person says the first thing that comes to mind! This 
+        game is meant to be played quickly and lightheartedly and a time limit of 5 seconds could be given for the person to 
+        give an answer. See what kinds of crazy things pop up!`
     },
+
+    {name:`Categories`,
+        description:`Both players agree on a category. Then taking turns they both respond with something that belongs to 
+        that category and the first person who takes too long to respond loses the game.`
+    },
+
+    {name:`Reaction Photo`,
+        description:`One person sends a gif and the other person sends a picture of them acting it out. Could be anything 
+        and could be used with emojis too if you wanted. A good way to laugh and have fun after a long day.`
+    },
+
+    {name:`Emoji Story`,
+        description:`One Person sends a string of emoji and the other person comes up with a short story from that string 
+        of emoji. Could be send using audio or by typing but creativity helps here!`
+    },
+
+    {name:`Rhymes`,
+        description:`Take turns rhyming with each other to see how long you can go. The first person unable to rhyme or 
+        repeating a word loses. Can go back and forth and try many different words and even phrases if you wanted`
+    },
+
+    {name:`Where Am I?`,
+        description:`Describe a place in the world or an area and see if the other person can guess where you are talking 
+        about. Could be anything from countries to landmarks, museums to beaches, or something normal like malls or movie 
+        theatres. See how interesting you can make this and if your partner can guess`
+    },
+
+    {name:`I spy`,
+        description:`The first person says "I spy something (fill in the blank)" and the other person tries their best to 
+        guess what the first person is referring to. Should be something around you or if video chatting something around 
+        your partner.`
+    },
+
+    {name:`Fill in the Blanks`,
+        description:`Kind of like those MadLibs that people used to do. You come up with a short story or sentence and 
+        the other person fills in the blanks as randomly or seriously as they want. This can lead to all sorts of fun and 
+        unexpected laughs!`
+    },
+
+    {name:`Unpopular Opinion`,
+        description:`This is kinda similiar to a "hot take". Someone says an unpopular opinion that they have and both of you 
+        go back and forth saying one unpopular opinion after another. A great way to get to know your partner and loved one and 
+        a good way to spend an evening together.`
+    },
+
+    {name:`What Should I do?`,
+        description:`One partner comes up with a situation that can literally be anything. It can be a good or bad situation 
+        really anything that you want. Then then ask the other partner what they should do in this situation. Can lead to some 
+        interesting conversations and some really good bonding moments too.`
+    },
+
+    {name:`Tic Tac Toe`,
+        description:`This can be played thru video chat, sending pictures back and forth to each other, or by playing it 
+        using the numbers 1-9. So 159 would be a success. So would 147 and so on. If it helps, remember how a phone is dialed 
+        and it makes it easier to keep track of`
+    },
+
+    {name:`Song Lyrics`,
+        description:`Text song lyrics back and forth. It can be the same song that both of you love or it can be a random line 
+        from a song that really means the world to you. You can discuss or just enjoy spending time together and also gives the 
+        chance to listen to music together. Music brings the world just a little closer`
+    },
+
+    {name:`The Alphabet Game`,
+        description:`Can make this a category or can be something random. You and your partner start with A and work your way thru 
+        to Z each of you taking turns and naming something in order. The first person unable to name something loses.`
+    },
+
+    {name:`Rock-Paper-Scissors`,
+        description:`The best way to play this game over long distance I've thought is either video chat or with emojis. Emojis 
+        makes it easier to play and kinda fun if both of you aren't feeling up to video chat and makes an interesting way to settle 
+        disputes if each of you may want to do something different and can't decide. Overall a Win-Win.`
+    },
+
+    {name:`Question Respond`,
+        description:`A wacky game where each partner takes turns asking a question and the other person answers with a question. 
+        No one actually answers the question unless they want to but makes for an interesting and hilarious game to play with 
+        each other.`
+    },
+
+    {name:`Emoji Picture React`,
+        description:`One partner sends an emoji and the other sends a picture of them reacting to it. A goofy but simple little 
+        game that leaves the door wide open for all kinds of possibilities!`
+    },
+
+    {name:`3 second video`,
+        description:`Send a 3 second video of you doing something and it can be anything and send to your partner. Could be singing
+        or dancing, could be writing or doing homeword or studying, walking or exploring the world around you, the world is your oyster!`
+    },
+
+    {name:`Word Association`,
+        description:`One partner says a word and the other has to say something associated with it. For example if someone 
+        says 'fast food' you can say 'burger' or anything in between. Go back and forward until one person takes too long and 
+        the other one wins!`
+    },
+
+    {name:`Emoji Voice`,
+        description:`One partner sends an emoji and the other person sends a voice recording of what they think it sounds like 
+        or something related to the emoji. Bound to lead to lots of laughs and good times!`
+    },
+
+    
 
 ];
 
