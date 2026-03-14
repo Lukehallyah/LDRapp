@@ -90,7 +90,7 @@ main{
     flex-direction: column;
     padding: 0;
     margin: 0;
-    background-color: #6db6f5;
+    background: linear-gradient(rgb(165, 165, 250),rgb(117, 117, 245),rgb(77, 77, 243),rgb(10, 10, 245));
     border-radius: 5px;
 
 }
@@ -109,7 +109,6 @@ main{
     margin:0;
     text-decoration:underline;
     flex-basis: 10%;
-    flex
 }
 
 .activityName{
@@ -165,9 +164,18 @@ main{
     main{
         width: 100%;
         max-width: 400px;
-        height: 100vh;
+        height: 100dvh;
+        width: 100vw;
     }
     
+    .title{
+        flex-basis: 5%;
+    }
+
+    .activityName{
+        flex-basis: 15%;
+    }
+
     .activity{
         font-size: 1.75rem;
     }
